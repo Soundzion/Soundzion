@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soundzion
-- 🌱 I’m currently learning to to build a vst instrumeny
+- 🌱 I’m currently learning to to build a vst instrument
 - 📫 How to reach me ... call soundzion@gmail.com
 
 <!---
