@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @Soundzion
-- 🌱 I’m currently learning to to build a vst instrument
-- 📫 How to reach me ... call soundzion@gmail.com
-
-<!---
-Soundzion/Soundzion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+An experienced Front-End Developer at Diba Tech Company, specializing in creating responsive and user-friendly web applications. Proficient in HTML, CSS, JavaScript, and modern frameworks like React and Vue.js. Skilled in UI/UX design, performance optimization, and cross-browser compatibility. Passionate about delivering seamless digital experiences and collaborating with teams to build innovative solutions.
